@@ -18,8 +18,14 @@ Conectores e headers para entrada e saída
 
 Esquema do Circuito
 O circuito básico de um oscilador com o LM555 pode ser configurado no modo astável. A frequência do oscilador é determinada pelos componentes R1, R2 (resistores) e C1 (capacitor). Para permitir a regulação da frequência, um potenciômetro pode ser adicionado no lugar de um dos resistores fixos.
+
 ![esquematico](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/2ec66411-8f27-4b97-a106-90ccdf5f5e25)
 
+![pcb esquematico](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/86ab651a-a6e7-4dd7-9433-284da9766c88)
+
+![3d view](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/ccc7d466-7345-46ca-a93b-b4b5c1e52746)
+
+![3d view front](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/574ddb72-3745-4acf-ad8a-5ee0626ff6fc)
 
 Fórmula para a Frequência
 A frequência de oscilação 𝑓 é dada por:
