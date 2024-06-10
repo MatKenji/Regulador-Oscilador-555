@@ -21,6 +21,8 @@ O circuito b√°sico de um oscilador com o LM555 pode ser configurado no modo ast√
 
 ![esquematico](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/2ec66411-8f27-4b97-a106-90ccdf5f5e25)
 
+![Esquematico regulador](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/37daf39f-2654-4c90-a479-0a952164d743)
+
 ![pcb esquematico](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/86ab651a-a6e7-4dd7-9433-284da9766c88)
 
 ![3d view](https://github.com/MatKenji/Regulador-Oscilador-555/assets/169562589/ccc7d466-7345-46ca-a93b-b4b5c1e52746)
